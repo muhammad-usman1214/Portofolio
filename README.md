@@ -7,8 +7,8 @@ You can explore the live version of the website [Click to see live demo](https:/
 
 ## Screenshots
 
-<img src="1.png">
-<img src="2.png">
+<img src="portfolio/1.png">
+<img src="portfolio/2.png">
 
 ## Table of Contents
 
